@@ -1,4 +1,3 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 ## Vue Animations and Transitions
 This repo is the result of a project I made while studying. This repo contains everything I've learned about __Animations and Transitions in VueJs v3__
 
