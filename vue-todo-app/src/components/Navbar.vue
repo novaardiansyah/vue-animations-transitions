@@ -18,7 +18,7 @@
           <router-link :to="{ name: 'Home' }" class="nav-link"
             >Home</router-link
           >
-          <router-link :to="{ name: 'Home' }" class="nav-link"
+          <router-link :to="{ name: 'About' }" class="nav-link"
             >About</router-link
           >
         </div>
@@ -58,4 +58,4 @@ nav.navbar {
 /* ====  ==== */
 </style>
 <!-- eslint-disable-next-line -->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                

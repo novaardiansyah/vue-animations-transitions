@@ -11,5 +11,5 @@ import "@/assets/scss/colors.scss";
 import "@/assets/scss/app.scss";
 
 createApp(App).use(router).mount("#app");
-// eslint-disable-next-line
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+/* eslint-disable-next-line */
+                                                                                

@@ -6,6 +6,11 @@ const routes = [
     name: "Home",
     component: () => import("@/views/Home"),
   },
+  {
+    path: "/about",
+    name: "About",
+    component: () => import("@/views/About"),
+  },
 ];
 
 const router = createRouter({
@@ -15,4 +20,4 @@ const router = createRouter({
 
 export default router;
 // eslint-disable-next-line
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                

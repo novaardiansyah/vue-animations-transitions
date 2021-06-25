@@ -3,17 +3,12 @@
 </template>
 
 <script>
-// import { ref, reactive } from 'vue'
-
 export default {
 	name: '',
 	// components: {},
 	// props: [],
-	/* setup(props, { emit }) {
-	  const state = reactive({
-		  
-		})
-		
+	/* setup() {
+	  
 		return {}
 	} */
 }
@@ -30,4 +25,4 @@ export default {
 	/* ====  ==== */
 </style>
 <!-- eslint-disable-next-line -->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                
