@@ -15,12 +15,15 @@
       </button>
       <div class="collapse navbar-collapse" id="myNavbar">
         <div class="navbar-nav text-center ms-auto">
-          <router-link :to="{ name: 'Home' }" class="nav-link"
-            >Home</router-link
-          >
-          <router-link :to="{ name: 'About' }" class="nav-link"
-            >About</router-link
-          >
+          <router-link :to="{ name: 'Home' }" class="nav-link">
+            Home
+          </router-link>
+          <router-link :to="{ name: 'About' }" class="nav-link">
+            About
+          </router-link>
+          <router-link :to="{ name: 'Contacts' }" class="nav-link">
+            Contacts
+          </router-link>
         </div>
       </div>
     </div>

@@ -3,15 +3,17 @@
 </template>
 
 <script>
+import { ref, reactive } from "vue";
+
 export default {
 	name: '',
-	// components: {},
-	// props: [],
-	/* setup() {
+	components: {},
+  props: [],
+  setup(props, { emit }) {
 	  
 		return {}
-	} */
-}
+	},
+};
 </script>
 
 <style lang="scss" scoped>
