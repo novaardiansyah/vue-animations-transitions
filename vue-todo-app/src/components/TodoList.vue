@@ -42,9 +42,7 @@
 
     <div class="col-md-8" v-else>
       <div class="alert alert-success" role="alert">
-        Congratulations you have done all the tasks today, continue your
-        activities by creating new tasks. come on! I am waiting for your
-        assignment!!.
+        Congratulations you have done all the tasks today.
       </div>
     </div>
     <!-- /.col -->
@@ -129,4 +127,4 @@ export default {
 /* ====  ==== */
 </style>
 <!-- eslint-disable-next-line -->
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                
